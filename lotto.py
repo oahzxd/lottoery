@@ -1,7 +1,7 @@
 #!/usr/bin/python
 #coding=utf-8
 
-#author   : bmhzxd
+#author   : oahzxd
 #version  : 1.0
 #datetime : 2015.7.27
 
